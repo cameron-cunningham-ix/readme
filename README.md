@@ -1,3 +1,1 @@
-- Hi, my name is Cameron Cunningham. I am a Computer Science student, currently applying for internships.
-
-
+- Hi, my name is Cameron Cunningham. I am a software developer having fun writing all kinds of code. Welcome!
